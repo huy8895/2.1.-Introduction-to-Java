@@ -4,11 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2.1.-Introduction-to-Java.iml" filepath="$PROJECT_DIR$/2.1.-Introduction-to-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Giai_phuong_trinh_bac_1/Giai_phuong_trinh_bac_1.iml" filepath="$PROJECT_DIR$/Giai_phuong_trinh_bac_1/Giai_phuong_trinh_bac_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hien_thi_loi_chao/Hien_thi_loi_chao.iml" filepath="$PROJECT_DIR$/Hien_thi_loi_chao/Hien_thi_loi_chao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hien_thi_thoi_gian_he_thong/Hien_thi_thoi_gian_he_thong.iml" filepath="$PROJECT_DIR$/Hien_thi_thoi_gian_he_thong/Hien_thi_thoi_gian_he_thong.iml" />
       <module fileurl="file://$PROJECT_DIR$/Khai_bao_su_dung_bien/Khai_bao_su_dung_bien.iml" filepath="$PROJECT_DIR$/Khai_bao_su_dung_bien/Khai_bao_su_dung_bien.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kiem_tra_nam_nhuan/Kiem_tra_nam_nhuan.iml" filepath="$PROJECT_DIR$/Kiem_tra_nam_nhuan/Kiem_tra_nam_nhuan.iml" />
       <module fileurl="file://$PROJECT_DIR$/Su_dung_toan_tu/Su_dung_toan_tu.iml" filepath="$PROJECT_DIR$/Su_dung_toan_tu/Su_dung_toan_tu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tinh_chi_so_can_nang/Tinh_chi_so_can_nang.iml" filepath="$PROJECT_DIR$/Tinh_chi_so_can_nang/Tinh_chi_so_can_nang.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tinh_so_ngay_trong_thang/Tinh_so_ngay_trong_thang.iml" filepath="$PROJECT_DIR$/Tinh_so_ngay_trong_thang/Tinh_so_ngay_trong_thang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ung_dung_doc_so_thanh_chu/Ung_dung_doc_so_thanh_chu.iml" filepath="$PROJECT_DIR$/Ung_dung_doc_so_thanh_chu/Ung_dung_doc_so_thanh_chu.iml" />
     </modules>
   </component>
 </project>
